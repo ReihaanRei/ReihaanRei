@@ -3,7 +3,7 @@
 ### Tentang Saya
 <div>
   <p>Nama saya Reihan Saya berusia 21 tahun. Hanya manusia biasa.</p>
-  <p>Kadang senang, sedih, main game, makan, tidur, dan hidup</p>
+  <p>Kadang senang, sedih, termenung, makan, tidur, dan hidup</p>
 </div>
 <!--
 **ReihaanRei/ReihaanRei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
