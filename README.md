@@ -1,4 +1,4 @@
-## Hi there, I,m Reihaan 👋🏻
+## Hi there, I'm Reihaan 👋🏻
 
 ### Tentang Saya
 <div>
