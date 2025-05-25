@@ -2,7 +2,7 @@
 
 ### Tentang Saya
 <div>
-  <p>My name is Reihan, I'm 22 years old. Just an ordinary person</p>
+  <p>My name is Reihan. I'm 22 years old. Just an ordinary person.</p>
   <p>I'm alive</p>
 </div>
 <!--
