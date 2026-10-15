@@ -137,13 +137,21 @@ Sometimes, being yourself is more than enough.
 
 <img src="https://github-readme-stats.vercel.app/api?username=ReihaanRei&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&bg_color=00000000&text_color=8FAE98&icon_color=6F9D7C&ring_color=6F9D7C&include_all_commits=true&number_format=short" width="340" alt="GitHub profile statistics" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReihaanRei&layout=compact&hide_title=true&hide_border=true&bg_color=00000000&text_color=8FAE98&langs_count=4&card_width=300" width="300" alt="Most used programming languages" />
+### 🌱 Language Canopy
 
-<br/>
+<sub>A closer look at the languages in my repositories.</sub>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ReihaanRei&hide_border=true&background=00000000&stroke=244536&ring=76B58A&fire=C5DDAA&currStreakLabel=A7C9B5&sideLabels=779B82&currStreakNum=E1EFE4&sideNums=B8D2BE&dates=607C68" width="340" alt="GitHub contribution streak" />
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReihaanRei&layout=normal&langs_count=8&hide_border=true&hide_title=false&bg_color=0B1D16&title_color=A7C9B5&text_color=C2D6C7&icon_color=79B894&card_width=500&size_weight=0.5&count_weight=0.5" width="500" alt="Most used programming languages with detailed percentage bars" />
+
+<br/><br/>
+
+### 🌲 Contribution Rhythm
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ReihaanRei&hide_border=true&background=00000000&stroke=244536&ring=76B58A&fire=C5DDA5&currStreakLabel=A7C9B5&sideLabels=779B82&currStreakNum=E1EFE4&sideNums=B8D2BE&dates=607C68" width="340" alt="GitHub contribution streak" />
 
 <br/><br/>
 
