@@ -14,8 +14,6 @@
 
   <br/><br/>
 
-  <br/><br/>
-
   <img src="https://img.shields.io/badge/status-alive%20%26%20well-244536?style=flat-square&labelColor=101C16" alt="Status" />
   <img src="https://img.shields.io/badge/vibe-low--key-315C48?style=flat-square&labelColor=101C16" alt="Vibe" />
   <img src="https://img.shields.io/badge/pressure-none-244536?style=flat-square&labelColor=101C16" alt="Pressure" />
