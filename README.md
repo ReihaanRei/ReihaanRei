@@ -119,109 +119,29 @@ Sometimes, being yourself is more than enough.
   </tr>
 </table>
 
+
+---
+
 <div align="center">
-  <sub>Still learning, still exploring, one step at a time.</sub>
+
+### 🌿 GitHub Activity
+
+<sub>Little by little, day by day.</sub>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ReihaanRei&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&bg_color=00000000&text_color=8FAE98&icon_color=6F9D7C&ring_color=6F9D7C" height="135" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReihaanRei&layout=compact&hide_title=true&hide_border=true&bg_color=00000000&text_color=8FAE98&langs_count=4" height="135" alt="Top Languages" />
+
+<br/><br/>
+
+<sub>🌲 Keep learning. Keep growing.</sub>
+
 </div>
 
 ---
 
-## 🌲 Greenforest Developer Journal
-
-<div align="center">
-
-  <sub>A quiet record of things built, learned, and discovered.</sub>
-
-  <br/><br/>
-
-  <img src="https://img.shields.io/badge/ENVIRONMENT-GREENFOREST-173D2A?style=flat-square&labelColor=0B1D16&color=315C48" alt="Greenforest" />
-  <img src="https://img.shields.io/badge/STATUS-KEEP_GROWING-173D2A?style=flat-square&labelColor=0B1D16&color=315C48" alt="Keep growing" />
-
-</div>
-
-### `01` — Profile Overview
-
-<div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ReihaanRei&show_icons=true&hide_border=true&hide_title=true&rank_icon=github&include_all_commits=true&bg_color=0B1D16&title_color=A7C9B5&text_color=C2D6C7&icon_color=79B894&ring_color=79B894&number_format=short"
-    width="75%"
-    alt="GitHub profile overview including stars, commits, and rank"
-  />
-
-</div>
-
-<sub>Profile overview: public repository statistics and other metrics supported by the stats service. Some data may differ from GitHub's own contribution graph.</sub>
-
-### `02` — Language Canopy
-
-<div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReihaanRei&layout=compact&langs_count=6&hide_border=true&bg_color=0B1D16&title_color=A7C9B5&text_color=C2D6C7&card_width=400"
-    width="65%"
-    alt="Most used programming languages across public repositories"
-  />
-
-</div>
-
-<sub>Languages are estimated from repository contents, not a measure of coding ability or total coding time.</sub>
-
-### `03` — Contribution Rhythm
-
-<div align="center">
-
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ReihaanRei&hide_border=true&background=0B1D16&stroke=244536&ring=76B58A&fire=C5DDAA&currStreakLabel=A7C9B5&sideLabels=779B82&currStreakNum=E1EFE4&sideNums=B8D2BE&dates=607C68"
-    width="75%"
-    alt="Current and longest GitHub contribution streak"
-  />
-
-</div>
-
-<sub>A snapshot of contribution streaks, based on the streak service's calculation.</sub>
-
-### `04` — Contribution Map
-
-<div align="center">
-
-  <img
-    src="https://ghchart.rshah.org/315C48/ReihaanRei"
-    width="95%"
-    alt="GitHub contribution activity calendar in green"
-  />
-
-</div>
-
-<sub>Every square is a small part of the journey. Contribution data depends on GitHub's activity records.</sub>
-
-### `05` — Achievements
-
-<div align="center">
-
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=ReihaanRei&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4"
-    width="85%"
-    alt="GitHub profile trophies and achievements"
-  />
-
-</div>
-
-<div align="center">
-
-  <br/>
-
-  <sub>
-    <code>~/life</code> &nbsp; → &nbsp;
-    <code>learn</code> &nbsp; → &nbsp;
-    <code>build</code> &nbsp; → &nbsp;
-    <code>grow</code>
-  </sub>
-
-  <br/><br/>
-
-  <sub>❧ Rooted in curiosity, growing at my own pace. ❧</sub>
-
-</div>
 
 ---
 
