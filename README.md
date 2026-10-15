@@ -89,7 +89,7 @@ Sometimes, being yourself is more than enough.
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=cpp,java,php,laravel,js,ts,react,html,css,tailwind,mysql,git,github,vscode&theme=dark" alt="C++, Java, PHP, Laravel, JavaScript, TypeScript, React, HTML, CSS, Tailwind CSS, MySQL, Git, GitHub, and VS Code" />
+<img src="https://skillicons.dev/icons?i=cpp,java,php,laravel,js,ts,react,html,css,tailwind,mysql,figma,github,vscode&theme=dark" alt="C++, Java, PHP, Laravel, JavaScript, TypeScript, React, HTML, CSS, Tailwind CSS, MySQL, Figma, GitHub, and VS Code" />
 
 <br/><br/>
 
@@ -110,11 +110,11 @@ Sometimes, being yourself is more than enough.
       <sub>Laravel</sub>
     </td>
     <td align="center" width="33%">
-      <b>🗄️ Tools & Database</b>
+      <b>🎨 Design & Tools</b>
       <br/><br/>
-      <sub>MySQL · Git · GitHub</sub>
+      <sub>Figma · MySQL</sub>
       <br/>
-      <sub>Visual Studio Code</sub>
+      <sub>GitHub · VS Code</sub>
     </td>
   </tr>
 </table>
@@ -137,8 +137,29 @@ Sometimes, being yourself is more than enough.
 
 <img width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=ReihaanRei&hide_border=true&background=00000000&stroke=244536&ring=76B58A&fire=C5DDA5&currStreakLabel=A7C9B5&sideLabels=779B82&currStreakNum=E1EFE4&sideNums=B8D2BE&dates=607C68" />
 
+<br/>
 
 <sub>🌲 No rush · no pressure · just keep growing.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🍃 Connect with Me
+
+<sub>Feel free to say hello.</sub>
+
+<br/><br/>
+
+<a href="https://www.instagram.com/reihananantaa/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-244536?style=for-the-badge&logo=instagram&logoColor=E4F0E8" alt="Instagram" />
+</a>
+&nbsp;
+<a href="mailto:reihanheryawan.rah@gmail.com">
+  <img src="https://img.shields.io/badge/Email-315C48?style=for-the-badge&logo=gmail&logoColor=E4F0E8" alt="Email" />
+</a>
 
 </div>
 
