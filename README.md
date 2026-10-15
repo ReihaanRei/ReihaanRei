@@ -14,7 +14,7 @@
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=315C48&label=VISITORS" alt="Profile visitors" />
+  <img src="https://komarev.com/ghpvc/?username=ReihaanRei&style=flat-square&color=315C48&label=VISITORS" alt="Profile visitors" />
 
   <br/><br/>
 
@@ -138,7 +138,7 @@ Sometimes, being yourself is more than enough.
 
 <br/>
 
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+<a href="https://github.com/ReihaanRei?tab=repositories">
   <img src="https://img.shields.io/badge/a_few_things_I've_made-Explore_my_repositories-244536?style=for-the-badge&logo=github&logoColor=E4F0E8" alt="Explore repositories" />
 </a>
 
