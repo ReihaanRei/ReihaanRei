@@ -108,11 +108,11 @@ Sometimes, being yourself is more than enough.
       <sub>TypeScript · React</sub>
     </td>
     <td align="center" width="33%">
-      <b>⚙️ Backend</b>
+      <b>⚙️ Programming & Backend</b>
       <br/><br/>
-      <sub>PHP · Laravel</sub>
+      <sub>C++ · Java · PHP</sub>
       <br/>
-      <sub>Java · C++</sub>
+      <sub>Laravel</sub>
     </td>
     <td align="center" width="33%">
       <b>🗄️ Tools & Database</b>
@@ -134,47 +134,40 @@ Sometimes, being yourself is more than enough.
 
 <div align="center">
 
-## 🌿 A Glimpse Into My GitHub
+## 🌿 A Quiet Look at My GitHub
 
-<sub>Small steps, little experiments, and things learned along the way.</sub>
+<sub>Some code, some progress, and a little curiosity.</sub>
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ReihaanRei&show_icons=true&hide_border=true&bg_color=071A12&title_color=A7C9B5&text_color=D7E7DC&icon_color=6FA889&ring_color=6FA889&include_all_commits=true&custom_title=The%20Journey%20So%20Far" width="70%" alt="GitHub profile statistics" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReihaanRei&layout=donut-vertical&hide_border=true&bg_color=0B1D16&title_color=A7C9B5&text_color=D7E7DC&langs_count=6&custom_title=Bits%20of%20Code" width="45%" alt="Most used programming languages" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ReihaanRei&hide_border=true&background=071A12&ring=6FA889&fire=C4E8D0&currStreakLabel=A7C9B5&sideLabels=A7C9B5&currStreakNum=E4F0E8&sideNums=E4F0E8&dates=789787" width="80%" alt="GitHub contribution streak" />
-
-<br/><br/>
+<br/>
 
 <table>
-  <tr>
-    <td align="center">
-      <sub>01 / EXPLORE</sub>
-      <br/><br/>
-      <b>Try something new.</b>
-    </td>
-    <td align="center">
-      <sub>02 / BUILD</sub>
-      <br/><br/>
-      <b>Make it work.</b>
-    </td>
-    <td align="center">
-      <sub>03 / IMPROVE</sub>
-      <br/><br/>
-      <b>Learn as I go.</b>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ReihaanRei&show_icons=true&hide_border=true&hide_title=true&hide_rank=true&include_all_commits=true&bg_color=0B1D16&text_color=B8CCBF&icon_color=79B894&title_color=A7C9B5&ring_color=79B894&number_format=short" width="100%" alt="GitHub overview" />
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReihaanRei&layout=compact&hide_border=true&hide_title=true&langs_count=5&bg_color=0B1D16&text_color=B8CCBF&title_color=A7C9B5" width="100%" alt="Most used languages" />
+
+</td>
+</tr>
 </table>
 
 <br/>
 
-<sub>Not a race. Just my own little journey. 🍃</sub>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ReihaanRei&hide_border=true&background=071A12&stroke=244536&ring=79B894&fire=C4E8D0&currStreakLabel=A7C9B5&sideLabels=789787&currStreakNum=E4F0E8&sideNums=B8CCBF&dates=617B6B" width="72%" alt="Contribution streak" />
+
+<br/><br/>
+
+<sub>
+  <code>~/life</code> &nbsp; <code>keep_learning()</code> &nbsp; <code>stay_curious</code>
+</sub>
+
+<br/><br/>
+
+<sub>━━━━━━━━━━━━━━ 🍃 ━━━━━━━━━━━━━━</sub>
 
 </div>
 
