@@ -132,24 +132,38 @@ Sometimes, being yourself is more than enough.
 
 ---
 
+
+---
+
 <div align="center">
 
-## 🌿 A Quiet Look at My GitHub
-
-<sub>Some code, some progress, and a little curiosity.</sub>
+<sub>A quiet record of things built, learned, and discovered.</sub>
 
 <br/>
 
+<img src="https://img.shields.io/badge/ENVIRONMENT-GREENFOREST-173D2A?style=flat-square&labelColor=0B1D16&color=315C48" alt="Greenforest theme" />
+<img src="https://img.shields.io/badge/MODE-KEEP_GROWING-173D2A?style=flat-square&labelColor=0B1D16&color=315C48" alt="Keep growing" />
+
+<br/><br/>
+
 <table>
 <tr>
-<td align="center" width="50%">
+<td width="50%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ReihaanRei&show_icons=true&hide_border=true&hide_title=true&hide_rank=true&include_all_commits=true&bg_color=0B1D16&text_color=B8CCBF&icon_color=79B894&title_color=A7C9B5&ring_color=79B894&number_format=short" width="100%" alt="GitHub overview" />
+<sub>01 / LANGUAGE CANOPY</sub>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReihaanRei&layout=compact&langs_count=5&hide_border=true&bg_color=0B1D16&title_color=9BC7A8&text_color=C2D6C7&border_radius=8" width="100%" alt="Most used languages" />
 
 </td>
-<td align="center" width="50%">
+<td width="50%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReihaanRei&layout=compact&hide_border=true&hide_title=true&langs_count=5&bg_color=0B1D16&text_color=B8CCBF&title_color=A7C9B5" width="100%" alt="Most used languages" />
+<sub>02 / DAILY GROWTH</sub>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ReihaanRei&hide_border=true&background=0B1D16&stroke=244536&ring=76B58A&fire=C5DDAA&currStreakLabel=9BC7A8&sideLabels=779B82&currStreakNum=E1EFE4&sideNums=B8D2BE&dates=607C68&border_radius=8" width="100%" alt="Contribution streak" />
 
 </td>
 </tr>
@@ -157,19 +171,23 @@ Sometimes, being yourself is more than enough.
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ReihaanRei&hide_border=true&background=071A12&stroke=244536&ring=79B894&fire=C4E8D0&currStreakLabel=A7C9B5&sideLabels=789787&currStreakNum=E4F0E8&sideNums=B8CCBF&dates=617B6B" width="72%" alt="Contribution streak" />
-
+<table>
+<tr>
+<td align="center">
+<sub>FOREST NOTES</sub>
 <br/><br/>
+<code>learn</code> &nbsp; → &nbsp; <code>build</code> &nbsp; → &nbsp; <code>grow</code>
+</td>
+</tr>
+</table>
 
-<sub>
-  <code>~/life</code> &nbsp; <code>keep_learning()</code> &nbsp; <code>stay_curious</code>
-</sub>
+<br/>
 
-<br/><br/>
-
-<sub>━━━━━━━━━━━━━━ 🍃 ━━━━━━━━━━━━━━</sub>
+<sub>❧ &nbsp; Rooted in curiosity, growing at my own pace. &nbsp; ❧</sub>
 
 </div>
+
+---
 
 ---
 
