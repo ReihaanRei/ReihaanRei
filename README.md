@@ -146,24 +146,6 @@ Sometimes, being yourself is more than enough.
 
 <div align="center">
 
-## 🌲 My Little Corner
-
-*Not much to see, but you're welcome to look around.*
-
-<br/><br/>
-
-<a href="https://github.com/ReihaanRei?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE-My%20Repositories-244536?style=for-the-badge&logo=github&logoColor=E4F0E8" alt="Explore my repositories" />
-</a>
-
-<br/><br/>
-
-</div>
-
----
-
-<div align="center">
-
 ### a gentle reminder
 
 <br/>
