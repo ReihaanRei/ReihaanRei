@@ -14,8 +14,6 @@
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=ReihaanRei&style=flat-square&color=315C48&label=VISITORS" alt="Profile visitors" />
-
   <br/><br/>
 
   <img src="https://img.shields.io/badge/status-alive%20%26%20well-244536?style=flat-square&labelColor=101C16" alt="Status" />
