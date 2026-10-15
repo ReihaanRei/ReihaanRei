@@ -1,4 +1,4 @@
-
+ 
 <!--
   Welcome to my little corner of GitHub.
   Just an ordinary person, nothing more.
@@ -94,26 +94,32 @@ Sometimes, being yourself is more than enough.
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,tailwind,mysql,git,github,vscode&theme=dark" alt="Technologies and tools" />
+<img src="https://skillicons.dev/icons?i=cpp,java,php,laravel,js,ts,react,html,css,tailwind,mysql,git,github,vscode&theme=dark" alt="C++, Java, PHP, Laravel, JavaScript, TypeScript, React, HTML, CSS, Tailwind CSS, MySQL, Git, GitHub, and VS Code" />
 
 <br/><br/>
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <b>🌐 Web</b>
+      <b>🌐 Frontend</b>
       <br/><br/>
       <sub>HTML · CSS · JavaScript</sub>
+      <br/>
+      <sub>TypeScript · React</sub>
     </td>
     <td align="center" width="33%">
       <b>⚙️ Backend</b>
       <br/><br/>
       <sub>PHP · Laravel</sub>
+      <br/>
+      <sub>Java · C++</sub>
     </td>
     <td align="center" width="33%">
-      <b>🗄️ Tools</b>
+      <b>🗄️ Tools & Database</b>
       <br/><br/>
       <sub>MySQL · Git · GitHub</sub>
+      <br/>
+      <sub>Visual Studio Code</sub>
     </td>
   </tr>
 </table>
@@ -128,21 +134,47 @@ Sometimes, being yourself is more than enough.
 
 <div align="center">
 
-## 🌿 My GitHub Stats
+## 🌿 A Glimpse Into My GitHub
+
+<sub>Small steps, little experiments, and things learned along the way.</sub>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ReihaanRei&show_icons=true&hide_border=true&bg_color=071A12&title_color=A7C9B5&text_color=D7E7DC&icon_color=6FA889&ring_color=6FA889&include_all_commits=true&custom_title=The%20Journey%20So%20Far" width="70%" alt="GitHub profile statistics" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReihaanRei&layout=donut-vertical&hide_border=true&bg_color=0B1D16&title_color=A7C9B5&text_color=D7E7DC&langs_count=6&custom_title=Bits%20of%20Code" width="45%" alt="Most used programming languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ReihaanRei&hide_border=true&background=071A12&ring=6FA889&fire=C4E8D0&currStreakLabel=A7C9B5&sideLabels=A7C9B5&currStreakNum=E4F0E8&sideNums=E4F0E8&dates=789787" width="80%" alt="GitHub contribution streak" />
+
+<br/><br/>
+
+<table>
+  <tr>
+    <td align="center">
+      <sub>01 / EXPLORE</sub>
+      <br/><br/>
+      <b>Try something new.</b>
+    </td>
+    <td align="center">
+      <sub>02 / BUILD</sub>
+      <br/><br/>
+      <b>Make it work.</b>
+    </td>
+    <td align="center">
+      <sub>03 / IMPROVE</sub>
+      <br/><br/>
+      <b>Learn as I go.</b>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ReihaanRei&show_icons=true&hide_border=true&bg_color=071A12&title_color=A7C9B5&text_color=E4F0E8&icon_color=6FA889&ring_color=6FA889" alt="GitHub Stats" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReihaanRei&layout=compact&hide_border=true&bg_color=071A12&title_color=A7C9B5&text_color=E4F0E8" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ReihaanRei&hide_border=true&background=071A12&ring=6FA889&fire=A7C9B5&currStreakLabel=A7C9B5&sideLabels=A7C9B5&currStreakNum=E4F0E8&sideNums=E4F0E8&dates=789787" alt="GitHub Streak Stats" />
-
-<br/><br/>
-
-<sub>Every contribution is a little step forward. 🍃</sub>
+<sub>Not a race. Just my own little journey. 🍃</sub>
 
 </div>
 
@@ -184,6 +216,7 @@ to live a meaningful life."*
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A12,35:12372A,70:245542,100:0B1D16&height=150&section=footer" width="100%" />
 
 </div>
+
 
 
 
