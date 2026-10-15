@@ -1,82 +1,132 @@
 
+<!--
+  Welcome to my little corner of GitHub.
+  Nothing special, just me.
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161616,100:303030&height=180&section=header&text=hey,%20i'm%20reihan%20👋🏻&fontSize=32&fontColor=E5E5E5&fontAlignY=40&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,35:302b63,70:45406a,100:24243e&height=240&section=header&text=Hey,%20I'm%20Reihan%20👋🏻&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Just%20an%20ordinary%20person.&descAlignY=57&descSize=17&animation=fadeIn" width="100%" />
 
-<br/>
+  <br/>
 
-### just an ordinary person.
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=19&duration=3500&pause=1400&color=C4B5FD&center=true&vCenter=true&width=500&lines=Nothing+much%2C+just+me.;Living+life+at+my+own+pace.;Still+figuring+things+out.;One+day+at+a+time.+" alt="A little introduction" />
 
-*Nothing special, just here.*
+  <br/><br/>
 
-<br/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=6d5b91&label=VISITORS" alt="Profile visitors" />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=555555&label=visitors" alt="Profile views" />
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/status-alive%20%26%20well-302b63?style=flat-square&labelColor=161626" alt="Status" />
+  <img src="https://img.shields.io/badge/vibe-low--key-45406a?style=flat-square&labelColor=161626" alt="Vibe" />
+  <img src="https://img.shields.io/badge/pressure-none-302b63?style=flat-square&labelColor=161626" alt="Pressure" />
 
 </div>
 
 ---
 
-### a little about me
+<div align="center">
 
-```text
-name       : Reihan
-age        : 22
-status     : alive
-location   : somewhere on earth
-personality: just being myself
-```
+## 🌙 A Little About Me
 
-Hi, I'm Reihan.
+*“I'm just a person, living a life, figuring things out.”*
 
-Just an ordinary person trying to figure things out,
-enjoying the little things, and taking life as it comes.
+</div>
 
-Nothing much to say about me.
-I'm just here, doing my own thing.
+Hey, I'm Reihan.
 
-Sometimes productive, sometimes not.
-Sometimes I know what I'm doing, most of the time I'm just figuring it out.
+I'm 22 years old, just an ordinary person trying to enjoy life
+in my own way.
 
-And honestly, that's fine.
+No extraordinary story, no big claims, and nothing much to brag about.
+Just someone who is here, doing what he can, learning along the way,
+and taking life one day at a time.
 
----
+I believe there's nothing wrong with being ordinary.
+Not everything has to be impressive, and not every moment
+needs to be something worth showing off.
 
-### a few things about me
-
-- 🌱 Still learning, still growing.
-- 🎧 Music is always a good idea.
-- 🌙 I enjoy my own little world.
-- ☕ Taking things one day at a time.
-- 🫧 No rush, no pressure, just life.
-
----
-
-### currently
-
-```text
-learning      ... slowly
-growing       ... quietly
-living        ... day by day
-figuring out  ... as I go
-```
+Sometimes, being yourself is more than enough.
 
 ---
 
 <div align="center">
 
-*"I'm not trying to be someone special.
-I'm just trying to be myself."*
+## ✦ A Few Little Things
+
+</div>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🌱</h3>
+      <b>Growing</b>
+      <br/>
+      <sub>Slowly, in my own way.</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>🌌</h3>
+      <b>Living</b>
+      <br/>
+      <sub>One day at a time.</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>☁️</h3>
+      <b>Learning</b>
+      <br/>
+      <sub>Still figuring it out.</sub>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<sub>stay lowkey. stay real. take it easy.</sub>
+- 🎧 A good song can make an ordinary day better.
+- 🌙 Sometimes, a little quiet is all I need.
+- ☕ Taking breaks is part of the process.
+- 🫧 No need to rush what takes time.
+- 💻 Occasionally making things and learning something new.
+
+---
+
+<div align="center">
+
+## 🪐 My Little Corner
+
+*Not much to see, but you're welcome to look around.*
+
+<br/>
+
+<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+  <img src="https://img.shields.io/badge/a_few_things_I've_made-Explore_my_repositories-302b63?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+</a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161616,100:303030&height=100&section=footer" width="100%" />
+</div>
+
+---
+
+<div align="center">
+
+### a gentle reminder
+
+<br/>
+
+*"You don't have to be extraordinary  
+to live a meaningful life."*
+
+<br/>
+
+<sub>no rush · no pressure · just be</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,35:302b63,70:45406a,100:24243e&height=150&section=footer" width="100%" />
 
 </div>
+
 
 <!--
 **ReihaanRei/ReihaanRei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
