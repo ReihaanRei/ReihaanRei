@@ -1,26 +1,26 @@
 
 <!--
   Welcome to my little corner of GitHub.
-  Nothing special, just me.
+  Just an ordinary person, nothing more.
 -->
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,35:302b63,70:45406a,100:24243e&height=240&section=header&text=Hey,%20I'm%20Reihan%20👋🏻&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Just%20an%20ordinary%20person.&descAlignY=57&descSize=17&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A12,35:12372A,70:245542,100:0B1D16&height=250&section=header&text=Hey,%20I'm%20Reihan%20👋🏻&fontSize=42&fontColor=E4F0E8&fontAlignY=38&desc=Just%20an%20ordinary%20person.&descAlignY=57&descSize=17&animation=fadeIn" width="100%" />
 
   <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=19&duration=3500&pause=1400&color=C4B5FD&center=true&vCenter=true&width=500&lines=Nothing+much%2C+just+me.;Living+life+at+my+own+pace.;Still+figuring+things+out.;One+day+at+a+time.+" alt="A little introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=19&duration=3500&pause=1400&color=A7C9B5&center=true&vCenter=true&width=500&lines=Nothing+much%2C+just+me.;Living+life+at+my+own+pace.;Still+figuring+things+out.;One+day+at+a+time." alt="A little introduction" />
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=ReihaanRei&style=flat-square&color=6d5b91&label=VISITORS" alt="Profile visitors" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=315C48&label=VISITORS" alt="Profile visitors" />
 
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/status-alive%20%26%20well-302b63?style=flat-square&labelColor=161626" alt="Status" />
-  <img src="https://img.shields.io/badge/vibe-low--key-45406a?style=flat-square&labelColor=161626" alt="Vibe" />
-  <img src="https://img.shields.io/badge/pressure-none-302b63?style=flat-square&labelColor=161626" alt="Pressure" />
+  <img src="https://img.shields.io/badge/status-alive%20%26%20well-244536?style=flat-square&labelColor=101C16" alt="Status" />
+  <img src="https://img.shields.io/badge/vibe-low--key-315C48?style=flat-square&labelColor=101C16" alt="Vibe" />
+  <img src="https://img.shields.io/badge/pressure-none-244536?style=flat-square&labelColor=101C16" alt="Pressure" />
 
 </div>
 
@@ -28,7 +28,7 @@
 
 <div align="center">
 
-## 🌙 A Little About Me
+## 🌿 A Little About Me
 
 *“I'm just a person, living a life, figuring things out.”*
 
@@ -62,19 +62,19 @@ Sometimes, being yourself is more than enough.
     <td align="center" width="33%">
       <h3>🌱</h3>
       <b>Growing</b>
-      <br/>
+      <br/><br/>
       <sub>Slowly, in my own way.</sub>
     </td>
     <td align="center" width="33%">
-      <h3>🌌</h3>
+      <h3>🌲</h3>
       <b>Living</b>
-      <br/>
+      <br/><br/>
       <sub>One day at a time.</sub>
     </td>
     <td align="center" width="33%">
-      <h3>☁️</h3>
+      <h3>🍃</h3>
       <b>Learning</b>
-      <br/>
+      <br/><br/>
       <sub>Still figuring it out.</sub>
     </td>
   </tr>
@@ -85,14 +85,14 @@ Sometimes, being yourself is more than enough.
 - 🎧 A good song can make an ordinary day better.
 - 🌙 Sometimes, a little quiet is all I need.
 - ☕ Taking breaks is part of the process.
-- 🫧 No need to rush what takes time.
+- 🍃 No need to rush what takes time.
 - 💻 Occasionally making things and learning something new.
 
 ---
 
 <div align="center">
 
-## 💻 Things I've Been Learning
+## 🌳 Things I've Been Learning
 
 *Just a few tools I've come across along the way.*
 
@@ -105,7 +105,7 @@ Sometimes, being yourself is more than enough.
 <table>
   <tr>
     <td align="center" width="33%">
-      <b>🌐 Web Development</b>
+      <b>🌐 Web</b>
       <br/><br/>
       <sub>HTML · CSS · JavaScript</sub>
     </td>
@@ -115,7 +115,7 @@ Sometimes, being yourself is more than enough.
       <sub>PHP · Laravel</sub>
     </td>
     <td align="center" width="33%">
-      <b>🗄️ Other Tools</b>
+      <b>🗄️ Tools</b>
       <br/><br/>
       <sub>MySQL · Git · GitHub</sub>
     </td>
@@ -132,14 +132,14 @@ Sometimes, being yourself is more than enough.
 
 <div align="center">
 
-## 🪐 My Little Corner
+## 🌲 My Little Corner
 
 *Not much to see, but you're welcome to look around.*
 
 <br/>
 
-<a href="https://github.com/ReihaanRei?tab=repositories">
-  <img src="https://img.shields.io/badge/a_few_things_I've_made-Explore_my_repositories-302b63?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+  <img src="https://img.shields.io/badge/a_few_things_I've_made-Explore_my_repositories-244536?style=for-the-badge&logo=github&logoColor=E4F0E8" alt="Explore repositories" />
 </a>
 
 <br/><br/>
@@ -163,9 +163,10 @@ to live a meaningful life."*
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,35:302b63,70:45406a,100:24243e&height=150&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A12,35:12372A,70:245542,100:0B1D16&height=150&section=footer" width="100%" />
 
 </div>
+
 
 
 
