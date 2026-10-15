@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A12,35:12372A,70:245542,100:0B1D16&height=250&section=header&text=Hey,%20I'm%20Reihaan%20👋🏻&fontSize=42&fontColor=E4F0E8&fontAlignY=38&desc=Just%20an%20ordinary%20person.&descAlignY=57&descSize=17&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A12,35:12372A,70:245542,100:0B1D16&height=250&section=header&text=Hey,%20I'm%20Reihan%20👋🏻&fontSize=42&fontColor=E4F0E8&fontAlignY=38&desc=Just%20an%20ordinary%20person.&descAlignY=57&descSize=17&animation=fadeIn" width="100%" />
 
   <br/>
 
@@ -49,7 +49,7 @@ Sometimes, being yourself is more than enough.
 
 <div align="center">
 
-## A Few Little Things
+## ✦ A Few Little Things
 
 </div>
 
@@ -128,6 +128,28 @@ Sometimes, being yourself is more than enough.
 
 <div align="center">
 
+## 🌿 My GitHub Stats
+
+<br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ReihaanRei&show_icons=true&hide_border=true&bg_color=071A12&title_color=A7C9B5&text_color=E4F0E8&icon_color=6FA889&ring_color=6FA889" alt="GitHub Stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReihaanRei&layout=compact&hide_border=true&bg_color=071A12&title_color=A7C9B5&text_color=E4F0E8" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ReihaanRei&hide_border=true&background=071A12&ring=6FA889&fire=A7C9B5&currStreakLabel=A7C9B5&sideLabels=A7C9B5&currStreakNum=E4F0E8&sideNums=E4F0E8&dates=789787" alt="GitHub Streak Stats" />
+
+<br/><br/>
+
+<sub>Every contribution is a little step forward. 🍃</sub>
+
+</div>
+
+---
+
+<div align="center">
+
 ## 🌲 My Little Corner
 
 *Not much to see, but you're welcome to look around.*
@@ -162,6 +184,7 @@ to live a meaningful life."*
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A12,35:12372A,70:245542,100:0B1D16&height=150&section=footer" width="100%" />
 
 </div>
+
 
 
 
