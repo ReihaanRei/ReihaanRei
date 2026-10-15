@@ -6,17 +6,11 @@
 
 <div align="center">
 
-  <!-- HEADER -->
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:071A12,35:12372A,70:245542,100:0B1D16&height=230&section=header&text=Hey,%20I'm%20Reihan%20👋🏻&fontSize=40&fontColor=E4F0E8&fontAlignY=38&desc=Just%20an%20ordinary%20person.&descAlignY=58&descSize=16&animation=fadeIn"
-    width="100%"
-    alt="Hey, I'm Reihan"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A12,35:12372A,70:245542,100:0B1D16&height=230&section=header&text=Hey,%20I'm%20Reihan%20👋🏻&fontSize=40&fontColor=E4F0E8&fontAlignY=38&desc=Just%20an%20ordinary%20person.&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Hey, I'm Reihan" />
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=18&duration=3500&pause=1400&color=A7C9B5&center=true&vCenter=true&width=460&lines=Nothing+much%2C+just+me.;Living+life+at+my+own+pace.;Still+figuring+things+out.;One+day+at+a+time."
-    alt="A little introduction"
-  />
+  <br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=18&duration=3500&pause=1400&color=A7C9B5&center=true&vCenter=true&width=460&lines=Nothing+much%2C+just+me.;Living+life+at+my+own+pace.;Still+figuring+things+out.;One+day+at+a+time." alt="A little introduction" />
 
   <br/><br/>
 
@@ -28,11 +22,11 @@
 
 ---
 
-## 🌿 A Little About Me
-
 <div align="center">
 
-  *“I'm just a person, living a life, figuring things out.”*
+## 🌿 A Little About Me
+
+*“I'm just a person, living a life, figuring things out.”*
 
 </div>
 
@@ -48,7 +42,11 @@ Sometimes, being yourself is more than enough.
 
 ---
 
+<div align="center">
+
 ## ✦ A Few Little Things
+
+</div>
 
 <table>
   <tr>
@@ -73,6 +71,8 @@ Sometimes, being yourself is more than enough.
   </tr>
 </table>
 
+<br/>
+
 - 🎧 A good song can make an ordinary day better.
 - 🌙 Sometimes, a little quiet is all I need.
 - ☕ Taking breaks is part of the process.
@@ -81,35 +81,35 @@ Sometimes, being yourself is more than enough.
 
 ---
 
-## 🌳 Things I've Been Learning
-
 <div align="center">
 
-  <sub>A collection of languages, frameworks, and tools I've explored.</sub>
+## 🌳 Things I've Been Learning
 
-  <br/><br/>
+<sub>Just a few tools I've come across along the way.</sub>
 
-  <img src="https://skillicons.dev/icons?i=cpp,java,php,laravel,js,ts,react,html,css,tailwind,mysql,git,github,vscode&theme=dark" alt="C++, Java, PHP, Laravel, JavaScript, TypeScript, React, HTML, CSS, Tailwind CSS, MySQL, Git, GitHub, and VS Code" />
+<br/><br/>
 
-</div>
+<img src="https://skillicons.dev/icons?i=cpp,java,php,laravel,js,ts,react,html,css,tailwind,mysql,git,github,vscode&theme=dark" alt="C++, Java, PHP, Laravel, JavaScript, TypeScript, React, HTML, CSS, Tailwind CSS, MySQL, Git, GitHub, and VS Code" />
+
+<br/><br/>
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td align="center" width="33%">
       <b>🌐 Frontend</b>
       <br/><br/>
       <sub>HTML · CSS · JavaScript</sub>
       <br/>
       <sub>TypeScript · React</sub>
     </td>
-    <td width="33%" valign="top">
+    <td align="center" width="33%">
       <b>⚙️ Programming & Backend</b>
       <br/><br/>
       <sub>C++ · Java · PHP</sub>
       <br/>
       <sub>Laravel</sub>
     </td>
-    <td width="33%" valign="top">
+    <td align="center" width="33%">
       <b>🗄️ Tools & Database</b>
       <br/><br/>
       <sub>MySQL · Git · GitHub</sub>
@@ -119,45 +119,87 @@ Sometimes, being yourself is more than enough.
   </tr>
 </table>
 
+<br/>
 
----
-
-<div align="center">
-
-### 🌿 GitHub Activity
-
-<sub>Little by little, day by day.</sub>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ReihaanRei&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&bg_color=00000000&text_color=8FAE98&icon_color=6F9D7C&ring_color=6F9D7C" height="135" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReihaanRei&layout=compact&hide_title=true&hide_border=true&bg_color=00000000&text_color=8FAE98&langs_count=4" height="135" alt="Top Languages" />
-
-<br/><br/>
-
-<sub>🌲 Keep learning. Keep growing.</sub>
+<sub>Still learning, still exploring, one step at a time.</sub>
 
 </div>
 
 ---
 
+<div align="center">
+
+## 🌲 GitHub Activity
+
+<sub>A quiet record of things built, learned, and discovered.</sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/ENVIRONMENT-GREENFOREST-173D2A?style=flat-square&labelColor=0B1D16&color=315C48" alt="Greenforest theme" />
+<img src="https://img.shields.io/badge/MODE-KEEP_GROWING-173D2A?style=flat-square&labelColor=0B1D16&color=315C48" alt="Keep growing" />
+
+<br/><br/>
+
+<table>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <sub>01 / PROFILE OVERVIEW</sub>
+      <br/><br/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ReihaanRei&theme=github_dark" width="100%" alt="GitHub profile statistics" />
+    </td>
+    <td align="center" width="50%" valign="top">
+      <sub>02 / LANGUAGE CANOPY</sub>
+      <br/><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReihaanRei&layout=compact&langs_count=6&hide_border=true&bg_color=0B1D16&title_color=A7C9B5&text_color=C2D6C7" width="100%" alt="Most used programming languages" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<sub>03 / CONTRIBUTION RHYTHM</sub>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ReihaanRei&hide_border=true&background=0B1D16&stroke=244536&ring=76B58A&fire=C5DDAA&currStreakLabel=A7C9B5&sideLabels=779B82&currStreakNum=E1EFE4&sideNums=B8D2BE&dates=607C68" width="75%" alt="Current and longest GitHub contribution streak" />
+
+<br/><br/>
+
+<sub>04 / CONTRIBUTION MAP</sub>
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/315C48/ReihaanRei" width="95%" alt="GitHub contribution calendar" />
+
+<br/><br/>
+
+<sub>
+  <code>learn</code> &nbsp; → &nbsp;
+  <code>build</code> &nbsp; → &nbsp;
+  <code>grow</code>
+</sub>
+
+<br/><br/>
+
+<sub>🌿 No rush · no pressure · just keep growing.</sub>
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🌲 My Little Corner
 
-<div align="center">
+*Not much to see, but you're welcome to look around.*
 
-  *Not much to see, but you're welcome to look around.*
+<br/><br/>
 
-  <br/><br/>
+<a href="https://github.com/ReihaanRei?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE-My%20Repositories-244536?style=for-the-badge&logo=github&logoColor=E4F0E8" alt="Explore my repositories" />
+</a>
 
-  <a href="https://github.com/ReihaanRei?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE-My%20Repositories-244536?style=for-the-badge&logo=github&logoColor=E4F0E8" alt="Explore my repositories" />
-  </a>
-
-  <br/><br/>
+<br/><br/>
 
 </div>
 
@@ -165,26 +207,23 @@ Sometimes, being yourself is more than enough.
 
 <div align="center">
 
-  ### a gentle reminder
+### a gentle reminder
 
-  <br/>
+<br/>
 
-  *"You don't have to be extraordinary*  
-  *to live a meaningful life."*
+*"You don't have to be extraordinary  
+to live a meaningful life."*
 
-  <br/>
+<br/>
 
-  <sub>no rush · no pressure · just be</sub>
+<sub>no rush · no pressure · just be</sub>
 
-  <br/><br/>
+<br/><br/>
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:071A12,35:12372A,70:245542,100:0B1D16&height=140&section=footer"
-    width="100%"
-    alt="Greenforest footer"
-  />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A12,35:12372A,70:245542,100:0B1D16&height=140&section=footer" width="100%" alt="Greenforest footer" />
 
 </div>
+
 
 
 
