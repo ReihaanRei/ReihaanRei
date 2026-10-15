@@ -165,14 +165,6 @@ Sometimes, being yourself is more than enough.
 
 <br/><br/>
 
-<sub>04 / CONTRIBUTION MAP</sub>
-
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/315C48/ReihaanRei" width="95%" alt="GitHub contribution calendar" />
-
-<br/><br/>
-
 <sub>
   <code>learn</code> &nbsp; → &nbsp;
   <code>build</code> &nbsp; → &nbsp;
