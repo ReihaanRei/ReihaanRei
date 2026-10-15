@@ -14,7 +14,7 @@
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=6d5b91&label=VISITORS" alt="Profile visitors" />
+  <img src="https://komarev.com/ghpvc/?username=ReihaanRei&style=flat-square&color=6d5b91&label=VISITORS" alt="Profile visitors" />
 
   <br/><br/>
 
@@ -92,13 +92,53 @@ Sometimes, being yourself is more than enough.
 
 <div align="center">
 
+## 💻 Things I've Been Learning
+
+*Just a few tools I've come across along the way.*
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,tailwind,mysql,git,github,vscode&theme=dark" alt="Technologies and tools" />
+
+<br/><br/>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <b>🌐 Web Development</b>
+      <br/><br/>
+      <sub>HTML · CSS · JavaScript</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>⚙️ Backend</b>
+      <br/><br/>
+      <sub>PHP · Laravel</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>🗄️ Other Tools</b>
+      <br/><br/>
+      <sub>MySQL · Git · GitHub</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<sub>Still learning, still exploring, one step at a time.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
 ## 🪐 My Little Corner
 
 *Not much to see, but you're welcome to look around.*
 
 <br/>
 
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+<a href="https://github.com/ReihaanRei?tab=repositories">
   <img src="https://img.shields.io/badge/a_few_things_I've_made-Explore_my_repositories-302b63?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
 </a>
 
@@ -126,6 +166,7 @@ to live a meaningful life."*
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,35:302b63,70:45406a,100:24243e&height=150&section=footer" width="100%" />
 
 </div>
+
 
 
 <!--
