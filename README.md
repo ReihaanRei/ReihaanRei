@@ -1,132 +1,80 @@
 
-<!--
-  Hi! Welcome to my GitHub profile.
-  Feel free to explore my projects.
--->
-
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hey,%20I'm%20Reihan%20👋🏻&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Informatics%20Engineering%20Student%20%7C%20Aspiring%20Software%20Engineer&descAlignY=58&descSize=14" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161616,100:303030&height=180&section=header&text=hey,%20i'm%20reihan%20👋🏻&fontSize=32&fontColor=E5E5E5&fontAlignY=40&animation=fadeIn" width="100%" />
 
-  <br/>
+<br/>
 
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hello%2C+World!+%F0%9F%91%8B;Just+a+human+who+loves+to+build.;Learning+something+new+every+day.;Turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
-  </a>
+### just an ordinary person.
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views" />
-  </p>
+*Nothing special, just here.*
 
-  <p>
-    <a href="https://github.com/YOUR_USERNAME?tab=repositories">
-      <img src="https://img.shields.io/badge/Explore-My_Repositories-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
-    </a>
-  </p>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=555555&label=visitors" alt="Profile views" />
 
 </div>
 
 ---
 
-## 👨🏻‍💻 About Me
-
-```javascript
-const reihan = {
-    name: "Reihan",
-    age: 22,
-    role: "Informatics Engineering Student",
-    focus: ["Software Engineering", "Web Development"],
-    currentlyLearning: ["Laravel", "JavaScript", "Software Testing"],
-    philosophy: "Still learning, still growing.",
-    status: "Alive and debugging ☕"
-};
-```
-
-> *"I'm not a genius. I'm just someone who keeps going."*
-
-Hey there! I'm Reihan — just an ordinary person navigating the
-world of technology, one line of code at a time.
-
-I enjoy exploring new things, solving problems, and building
-projects that turn ideas into something real.
-
-I don't know everything, and that's okay.
-There's always something new to learn.
-
-- 🎓 Studying Informatics Engineering
-- 💻 Interested in Software Engineering & Web Development
-- 🌱 Always learning, experimenting, and improving
-- 🛠️ Building projects and learning from every bug
-- ☕ Powered by curiosity and occasional caffeine
-
----
-
-## 🧰 Tech Stack & Tools
-
-<div align="center">
-
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,tailwind,mysql,git,github,vscode&theme=dark" alt="Tech Stack" />
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" />
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top Languages" />
-
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=F59E0B&currStreakLabel=A78BFA" alt="GitHub Streak" width="70%" />
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-- 📚 Deepening my knowledge of software development
-- 🧩 Writing cleaner and more maintainable code
-- 🧪 Exploring software testing and debugging
-- 🚀 Building projects and growing as a developer
-
----
-
-## 🌌 Beyond the Code
+### a little about me
 
 ```text
-Learning       ████████████████████  always
-Building       ████████████░░░░░░░░  in progress
-Debugging      ████████████████████  unfortunately
-Understanding  ████████░░░░░░░░░░░░  work in progress
+name       : Reihan
+age        : 22
+status     : alive
+location   : somewhere on earth
+personality: just being myself
 ```
 
-I believe progress doesn't always have to be loud.
-Sometimes, showing up and trying again is enough.
+Hi, I'm Reihan.
+
+Just an ordinary person trying to figure things out,
+enjoying the little things, and taking life as it comes.
+
+Nothing much to say about me.
+I'm just here, doing my own thing.
+
+Sometimes productive, sometimes not.
+Sometimes I know what I'm doing, most of the time I'm just figuring it out.
+
+And honestly, that's fine.
 
 ---
 
-## 🤝 Let's Connect
+### a few things about me
+
+- 🌱 Still learning, still growing.
+- 🎧 Music is always a good idea.
+- 🌙 I enjoy my own little world.
+- ☕ Taking things one day at a time.
+- 🫧 No rush, no pressure, just life.
+
+---
+
+### currently
+
+```text
+learning      ... slowly
+growing       ... quietly
+living        ... day by day
+figuring out  ... as I go
+```
+
+---
 
 <div align="center">
 
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+*"I'm not trying to be someone special.
+I'm just trying to be myself."*
 
-  <!-- Add your other social links here -->
+<br/>
 
-  <br/><br/>
+<sub>stay lowkey. stay real. take it easy.</sub>
 
-  <i>"Just an ordinary person, creating extraordinary possibilities."</i>
+<br/><br/>
 
-  <br/><br/>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161616,100:303030&height=100&section=footer" width="100%" />
 
 </div>
 
