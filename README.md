@@ -155,10 +155,6 @@ to live a meaningful life."*
 
 <br/>
 
-<sub>no rush · no pressure · just be</sub>
-
-<br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A12,35:12372A,70:245542,100:0B1D16&height=140&section=footer" width="100%" alt="Greenforest footer" />
 
 </div>
